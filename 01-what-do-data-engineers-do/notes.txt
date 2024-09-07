@@ -3,3 +3,8 @@ Assignment:
 Imagine that you are hired to enable data analytics;
 where would you start? How would you go about gathering requirements?
 Hint: Think backward from what the business may need.
+
+
+  My first step towards effective data analysis would be to establish the correct data strategy specific to the company. I would engage in conversations with individuals in the company who handle or utilize data, and review the company's documentation. I would determine which data is particularly essential in sales, service or product production, and customer support. I would ascertain what data solutions have been implemented in the company thus far.
+
+  Were the data securely stored and, if shared with clients, was proper control maintained over access? Do other company employees have assigned access levels based on their role, and are they trained in secure data handling? With this information, I would devise a plan for potential improvements and further changes to enhance the company's efficiency.
