@@ -1,4 +1,4 @@
-# Assignment
+Assignment
 
 Imagine that you are hired to enable data analytics (Hint: Think backward from what the business may need.):
   1. Where would you start?
