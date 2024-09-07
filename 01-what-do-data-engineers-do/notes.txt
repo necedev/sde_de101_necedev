@@ -1,3 +1,5 @@
 Assignment:
 
-    Imagine that you are hired to enable data analytics; where would you start? How would you go about gathering requirements? Hint: Think backward from what the business may need.
+Imagine that you are hired to enable data analytics;
+where would you start? How would you go about gathering requirements?
+Hint: Think backward from what the business may need.
